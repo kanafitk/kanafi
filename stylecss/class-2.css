@@ -328,4 +328,234 @@ list-style: none;
     bottom: 170px;
     left: 420px;
 }
+.hero-box0 i{ 
+    width: 10%;
+    height: 15%;
+    background-color: lightgrey;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 170px;
+    right: 20px;
+}
+.hero-box0 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    transition: 0.4s;
+}
+.hero-box0{
+    width: 29%;
+    height: 97%;
+    margin-top: 5px;
+    /* background-color: cornflowerblue; */
+    border-radius: 25px;
+}
+.hero-box0 img:hover{
+    transform: scale(1.04);
+    transition: 0.4s;
+}
+.container-4{
+    width: 100%;
+    height: 450px;
+    /* background-color: rgb(0, 255, 34); */
+    margin-top: 20px;
+}
+.picture2{
+    width: 100%;
+    height: 75%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.hero-box2 i{ 
+    width: 10%;
+    height: 15%;
+    background-color: lightgrey;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 170px;
+    right: 20px;
+}
+.hero-box2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    transition: 0.4s;
+}
+.hero-box2{
+    width: 29%;
+    height: 90%;
+    margin-top: 5px;
+    /* background-color: cornflowerblue; */
+    border-radius: 25px;
+}
+.hero-box2 img:hover{
+    transform: scale(1.04);
+    transition: 0.4s;
+}
+.hero-box3{
+    width: 29%;
+    height: 90%;
+    margin-top: 5px;
+    /* background-color: cornflowerblue; */
+    border-radius: 25px;
+}
+.hero-box3 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    transition: 0.4s;
+}
+.hero-box3 img:hover{
+    transform: scale(1.04);
+    transition: 0.4s;
+}
+.hero-box3 i{
+    width: 10%;
+    height: 15%;
+    background-color: lightgrey;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 170px;
+    left: 420px;
+}
+.seeall{
+    width: 100%;
+    height: 13%;
+    /* background-color: rgb(255, 153, 0); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.see-all{
+    width: 130px;
+    height: 40px;
+    border: 1px solid rgb(0, 140, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
 
+}
+.see-all p{
+    font-size: 20px;
+    color: rgb(0, 140, 255);
+    gap: 10px ;
+}
+.see-all i{
+   color:rgb(0, 140, 255);
+}
+
+.k{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+    margin-top: 1000px;
+}
+.container-5{
+    width: 100%;
+    height: 200px;
+    background-color:rgb(0, 140, 255);
+    border-radius: 25px;
+    margin-top: 20px;
+    
+}
+.logo-text{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.x-box1{
+    width: 32%;
+    height: 100%;
+    /* background-color: bisque; */
+    padding: 0 60px;
+
+}
+.logo-box1{
+    width: 100%;
+    height: 20%;
+    /* background-color: rgb(255, 165, 56); */
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.logo-box{
+    width: 30%;
+    height: 50%;
+    background-color: lightgray;
+    margin-top: 7%;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.x-box2{
+    width: 32%;
+    height: 100%;
+    /* background-color: bisque; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0 30px 0;
+    
+}
+.logo-box2{
+    width: 100%;
+    height: 24%;
+    /* background-color: rgb(255, 165, 56); */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.x-box3{
+    width: 32%;
+    height: 100%;
+    /* background-color: bisque; */
+}
+.logo-box3{
+    width: 100%;
+    height: 20%;
+    /* background-color: rgb(255, 165, 56); */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   
+}
+.big-profile{
+    width: 100%;
+    height: 80%;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.profile{
+    width: 15%;
+    height: 45%;
+    background-color: lightgray;
+    margin-top: 5px;
+    border-radius: 100px;
+}
+.x-box2 p{
+    color: white;
+}
+.logo-box3 p{
+    color: white;
+}
